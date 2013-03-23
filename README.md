@@ -33,7 +33,7 @@ After clicking ```Turn On```
 
 After clicking ```Turn Off```
 
-![Turn Off](https://github.com/minhazul-haque/simple-arduino-control/raw/master/on.png "Turn Off")
+![Turn Off](https://github.com/minhazul-haque/simple-arduino-control/raw/master/off.png "Turn Off")
 
 ## Why is it so simple? ##
 Because I just learned some basic serial communications between host computer and MCU. Next time I will write some complex sketches like showing text on LCD via MCU and update this application so that the text can be changed from GUI.
