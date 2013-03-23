@@ -31,9 +31,17 @@ After clicking ```Turn On```
 
 ![Turn On](https://github.com/minhazul-haque/simple-arduino-control/raw/master/on.png "Turn On")
 
+And the MCU
+
+![Arduino Turned On](https://github.com/minhazul-haque/simple-arduino-control/raw/master/camera-on.jpg "Arduino Turned On")
+
 After clicking ```Turn Off```
 
 ![Turn Off](https://github.com/minhazul-haque/simple-arduino-control/raw/master/off.png "Turn Off")
+
+And the MCU
+
+![Arduino Turned Off](https://github.com/minhazul-haque/simple-arduino-control/raw/master/camera-off.jpg "Arduino Turned Off")
 
 ## Why is it so simple? ##
 Because I just learned some basic serial communications between host computer and MCU. Next time I will write some complex sketches like showing text on LCD via MCU and update this application so that the text can be changed from GUI.
