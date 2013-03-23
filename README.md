@@ -11,7 +11,7 @@ I bought an Arduino Uno (Piduino) board and did some basic experiment with its M
 * Arduino Uno board/other compatible boards
 
 ## How to use ##
-You need to burn the sketch to your MCU and then connect it to serial port. Then plug it into your usb/serial port so that the application can access and write to its target port.
+You need to burn the sketch ```sketch.cpp``` to your MCU. Then plug it into your usb/serial port so that the application can access and write to its target port.
 
 ## Installing QtSerialPort ##
 QtSerialPort is available for download at from its gitorious repository.
