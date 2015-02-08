@@ -1,3 +1,6 @@
+# Check [QArduControl](https://github.com/minhazul-haque/qarducontrol) for an updated version of this [rogram
+
+
 Simple Arduino Control
 ======================
 
